@@ -119,7 +119,7 @@ class HomePage extends StatelessWidget {
           )
         ],
       ),
-      bottomNavigationBar: const CustomBottomNavBar(
+      bottomNavigationBar: const  CustomBottomNavBar(
         selectedMenu: MenuState.home,
       ),
     );
